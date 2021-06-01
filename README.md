@@ -1,16 +1,21 @@
-<p align="center"><a href="https://t.me/fridayot"><img src="https://telegra.ph/file/22535f8051a58af113586.jpg" width="5000"></a></p> 
-<h1 align="center"><b>FRIDAY-USERBOT 🇮🇳 </b></h1>
-<h4 align="center">A Powerful, Smart And Simple Userbot In Pyrogram.</h4>
-
 
 ## Support 🚑
-<a href="https://t.me/FridaySupportOfficial"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/fridayOT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/casperbotSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Casperbot_mix"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 # String Session - Pyrogram 🖱
-### Repl 🧨
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@MIDHUNKMKM/StringGen)
+### choose anyone from below 🧨
+[best method](https://replit.com/@MIDHUNKMKM/StringGen)
+
+[2nd method](https://repl.it/@subinps/getStringName)
+
+[3rd method](http://generatestringsession.sandeep1709.repl.run/)
+
+[bot method easy](https://t.me/genStr_Bot)
+
+[2nd bot method](https://t.me/sessionstringbot)
+
 ### Locally 🏆
 ```
 $ git clone https://github.com/DevsExpo/FridayUserbot
@@ -22,14 +27,14 @@ $ python(3) string_gen.py
 
 ### Deploying To Heroku ⚙
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DevsExpo/FridayUserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/casperteam/casperbot)
 
 ### Self-hosting (For Devs) ⚔
 ```sh
 # Install Git First // (Else You Can Download And Upload to Your Local Server)
-$ git clone https://github.com/DevsExpo/FridayUserbot
+$ git clone https://github.com/casperteam/casperbot
 # Open Git Cloned File
-$ cd FridayUserbot
+$ cd casperbot
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
 # Create local.env with variables as given below
@@ -54,10 +59,10 @@ $ python(3) -m main_startup
 ### Plugins 🔧
 
 ```python3
-from main_startup.core.decorators import friday_on_cmd
+from main_startup.core.decorators import satya_on_cmd
 from main_startup.helper_func.basic_helpers import edit_or_reply
 
-@friday_on_cmd(['helloworld'],
+@satya_on_cmd(['helloworld'],
     cmd_help={
     "help": "This is A TEST",
     "example": "{ch}helloworld"
@@ -76,15 +81,15 @@ async def mentioned_(client, message):
 ```
 
 # X-Tra Plugins 🎸
-* Please Visit [Xtra-Plugins](https://github.com/DevsExpo/Xtra-Plugins) To Checkout Xtra-Plugins.
+* Please Visit [Xtra-Plugins](https://github.com/casperteam/unofficial) To Checkout Xtra-Plugins.
 
 
 # Licence 📋
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-* Copyright (C) 2020-2021 by DevsExpo@Github, < https://github.com/DevsExpo >.
+* Copyright (C) 2020-2021 by DevsExpo@Github, < https://github.com/caspeream >.
 
-FridayUserbot is Free Software: You can use, study share and improve it at your
+casperbot is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
