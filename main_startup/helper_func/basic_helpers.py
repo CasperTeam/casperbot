@@ -219,7 +219,7 @@ def inline_wrapper(func):
                         InlineQueryResultArticle(
                             title="You Can't Use Me! Why not to make your own go to @casperbot support",
                             input_message_content=InputTextMessageContent(
-                                "**Hai!** Well, hahah why are you stealing my bot man do your own , head to @casperbotsupport  they can help you""
+                                "**Hai!** Well, hahah why are you stealing my bot man do your own , head to @casperbotsupport  they can help you"
                             ),
                         )
                     )
