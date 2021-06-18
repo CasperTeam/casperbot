@@ -18,8 +18,8 @@
 
 ### Locally 🏆
 ```
-$ git clone https://github.com/DevsExpo/FridayUserbot
-$ cd FridayUserbot
+$ git clone https://github.com/Casperteam/casperbot
+$ cd Casperbot
 $ python(3) string_gen.py
 ```
 
